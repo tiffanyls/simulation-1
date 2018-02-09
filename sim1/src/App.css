@@ -15,4 +15,17 @@
   width: auto;
   height: auto;
   position: relative;
+  left: -165px;
+  
+}
+
+.Shelves_header_span {
+  font-family: Open Sans, sans-serif;
+  color: #ffffff;
+  font-size: 30px;
+  font-weight: 700;
+}
+
+.logo {
+  width: 50px;
 }

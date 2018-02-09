@@ -7,7 +7,7 @@ class Homepage extends Component{
             <div>
             <div class="Shelves_header">
                 <div class="Shelves_header_content">
-                <img src={logo} class="logo"/>
+                <img src={logo} class="logo" alt="logo"/>
                 <span class="Shelves_header_span"> SHELFIE</span>
                 </div>
                 </div>
