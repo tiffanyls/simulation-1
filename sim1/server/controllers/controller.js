@@ -1,6 +1,6 @@
 module.exports = {
     getBins: (req, res, next) => {
-
+        
     },
     getBin: (req, res, next) => {
 
