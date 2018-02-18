@@ -1,0 +1,1 @@
+SELECT CASE WHEN bin_id = $1 THEN '$1' ELSE null;
